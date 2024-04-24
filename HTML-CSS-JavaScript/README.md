@@ -8,3 +8,5 @@
 [JavaScript Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics) 
 
 ## Videos
+
+[HTML/CSS/JavaScript/ES6](https://www.bilibili.com/video/BV1jj411P7Yp) (中文)
