@@ -1,0 +1,59 @@
+[TOC]
+
+# Learning Resource
+
+## Reading
+
+[HTML Introduction](https://www.w3schools.com/html/html_intro.asp)
+[JavaScript Tutorial](https://www.w3schools.com/js/)
+[JavaScript Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
+
+## Videos
+
+
+
+# HTML
+
+在HTML中，有许多常用的标签，它们各自担当不同的角色，用于构建和格式化网页内容。以下是一些基本而常用的HTML标签：
+
+1. `<html>`：这个标签包围了整个HTML文档的所有内容。
+2. `<head>`：包含了所有的头部标签，如`<title>`、`<meta>`等，通常用于存放脚本和样式信息。
+3. `<title>`：定义了网页的标题，这个标题会显示在浏览器的标题栏或标签页上。
+4. `<body>`：包含了网页的主要内容，如文本、图片、视频等。
+5. `<h1>`到`<h6>`：这些是标题标签，`<h1>`表示最大的标题，`<h6>`表示最小的标题。
+6. `<p>`：定义段落。
+7. `<a>`：定义超链接，用于从一个页面链接到另一个页面。
+8. `<img>`：用于嵌入图片。
+9. `<ul>`、`<ol>`、`<li>`：分别代表无序列表、有序列表和列表项。
+10. `<div>`：as generic container 用于组织内容，没有任何语义意义，常与CSS一起使用来布局页面。
+11. `<span>`：用于对文本的小块进行组织，通常用于改变文本的样式。
+12. `<table>`、`<tr>`、`<td>`：分别代表表格、表格行和表格单元格。
+13. `<form>`：用于创建表单，以便用户输入数据，如用户名、密码等。
+14. `<input>`：用于创建输入字段，如文本框、复选框、提交按钮等。
+15. `<button>` 点击 按钮
+16. `<script>`：用于在网页中嵌入或引用JavaScript代码，增加网页的交互性。
+
+# CSS
+
+## 选择器
+
+* 全局选择器 `*`
+* 元素选择器 在标签内`.h1{}`
+* 类选择器 `.class{}` `class=" "` *用空格分开多个类*
+* ID选择器`.# `  `id=" " `
+* 内联样式选择器
+
+## 字体
+
+`font-family: normal`
+
+`font-weight: bold/light/300/700`
+
+## background
+
+`background-size` length/ percentage/  **cover**/ contain 
+
+ 
+
+# JavaScript
+
